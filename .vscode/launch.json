@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - doubleTrouble",
+            "request": "launch",
+            "mainClass": "doubleTrouble",
+            "projectName": "Class Assignments_8183f4dd"
+        }
+    ]
+}
