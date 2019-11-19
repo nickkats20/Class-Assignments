@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - intLimits",
+            "request": "launch",
+            "mainClass": "intLimits",
+            "projectName": "Class Assignments_193e6587"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - doubleTrouble",
             "request": "launch",
             "mainClass": "doubleTrouble",
