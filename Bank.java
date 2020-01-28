@@ -1,21 +1,20 @@
 public class Bank {
     // fields
-    private BankAccount account1;
-    private BankAccount account2;
-    private BankAccount account3;
+    private BankAccount[] accounts;
+   
 
     // constructors
 
     public Bank() {
-        account1 = new BankAccount("tim barron", 300.0);
-        account2 = new BankAccount(700.0);
-        account3 = new BankAccount("joe bradley");
+        accounts = new BankAccount[4];
+        accounts[0] =  new BankAccount("tim barron", 300.0);
+        accounts[1] = new BankAccount("tim barron", 400.0);
+        accounts[2] =  new BankAccount("tim barron", 500.0);
+        accounts[3] =  new BankAccount("tim barron", 500.0);
     }
 
-    public Bank(BankAccount b1, BankAccount b2, BankAccount b3) {
-        account1 = b1;
-        account2 = b2;
-        account3 = b3;
+    public Bank(BankAccount[] premadeAccounts) {
+        for(int i = 0; i < accounts.length; i++)
     }
 
     public Bank(double startingAmountForAllAccounts) {
