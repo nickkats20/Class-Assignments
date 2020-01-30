@@ -11,6 +11,7 @@ public class Bank {
         accounts[2] = new BankAccount("tim barron", 500.0);
         accounts[3] = new BankAccount("tim barron", 500.0);
     }
+    
 
     public Bank(BankAccount[] premadeAccounts) {
         this.accounts = premadeAccounts;
