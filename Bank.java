@@ -3,7 +3,6 @@ public class Bank {
     private BankAccount[] accounts;
 
     // constructors 
-    //test
 
     public Bank() {
         accounts = new BankAccount[4];
