@@ -4,7 +4,6 @@ public class BankAccount {
     private String owner;
 
     // constructors
-    /**
      * Default Constructor for objects of class BankAccount
      */
     public BankAccount() {
