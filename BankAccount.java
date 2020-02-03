@@ -4,8 +4,8 @@ public class BankAccount {
     private String owner;
 
     // constructors
-     * Default Constructor for objects of class BankAccount
-     */
+
+    // Default Constructor for objects of class BankAccount
     public BankAccount() {
         // initialise instance variables
         balance = 1.0;
@@ -51,5 +51,4 @@ public class BankAccount {
         System.out.println("This is the balance: $" + balance);
         System.out.println("Account owner: " + owner);
     }
-
 }
