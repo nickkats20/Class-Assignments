@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Class-Assignments_62565d7f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - bankTester",
             "request": "launch",
             "mainClass": "bankTester",
