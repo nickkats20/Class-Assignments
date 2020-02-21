@@ -24,7 +24,7 @@ public class ColorChooser
     // create a JFrame to be the parent of the color chooser open dialog
     // if you don't do this then you may not see the dialog.
     JFrame frame = new JFrame();
-    frame.setAlwaysOnTop(true);
+    frame.setAlwaysOnTop(false);
     
     
     // use the color chooser to pick the color

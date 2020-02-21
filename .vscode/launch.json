@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ColorChooser",
+            "request": "launch",
+            "mainClass": "ColorChooser",
+            "projectName": "Class-Assignments-1_2634ff63"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PictureExplorer",
+            "request": "launch",
+            "mainClass": "PictureExplorer",
+            "projectName": "Class-Assignments-1_2634ff63"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - test",
             "request": "launch",
             "mainClass": "test",
