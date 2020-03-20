@@ -2,10 +2,31 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - TestMoveable",
             "request": "launch",
             "mainClass": "TestMoveable",
             "projectName": "Class Assignments_193e6587"
+=======
+            "name": "CodeLens (Launch) - ColorChooser",
+            "request": "launch",
+            "mainClass": "ColorChooser",
+            "projectName": "Class-Assignments-1_2634ff63"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PictureExplorer",
+            "request": "launch",
+            "mainClass": "PictureExplorer",
+            "projectName": "Class-Assignments-1_2634ff63"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Class-Assignments_62565d7f"
+>>>>>>> 5ac547b2487e634ff25c75d77eb03ff1c3b50eff
         },
         {
             "type": "java",
