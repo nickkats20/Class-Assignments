@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MergeSortTimer
+comment0.text=\n\ \ \ This\ program\ measures\ how\ long\ it\ takes\ to\ sort\ an\n\ \ \ array\ of\ a\ user-specified\ size\ with\ the\ merge\n\ \ \ sort\ algorithm.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

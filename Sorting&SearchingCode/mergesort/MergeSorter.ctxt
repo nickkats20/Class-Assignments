@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MergeSorter
+comment0.text=\n\ \ \ This\ class\ sorts\ an\ array,\ using\ the\ merge\ sort\ algorithm.\n
+comment1.params=anArray
+comment1.target=MergeSorter(int[])
+comment1.text=\n\ \ \ \ \ \ Constructs\ a\ merge\ sorter.\n\ \ \ \ \ \ @param\ anArray\ the\ array\ to\ sort\n
+comment2.params=
+comment2.target=void\ sort()
+comment2.text=\n\ \ \ \ \ \ Sorts\ the\ array\ managed\ by\ this\ merge\ sorter.\n
+comment3.params=first\ second
+comment3.target=void\ merge(int[],\ int[])
+comment3.text=\n\ \ \ \ \ \ Merges\ two\ sorted\ arrays\ into\ the\ array\ managed\ by\ this\n\ \ \ \ \ \ merge\ sorter.\ \n\ \ \ \ \ \ @param\ first\ the\ first\ sorted\ array\n\ \ \ \ \ \ @param\ second\ the\ second\ sorted\ array\n
+numComments=4
